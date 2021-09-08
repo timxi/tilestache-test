@@ -12,7 +12,7 @@
         <StyleName>style</StyleName>
         <Datasource>
             <Parameter name="type">shape</Parameter>
-            <Parameter name="file">sample_data/tl_2020_us_state.shp</Parameter>
+            <Parameter name="file">sample_data/tl_2020_us_state_new.shp</Parameter>
         </Datasource>
     </Layer>
 </Map>
