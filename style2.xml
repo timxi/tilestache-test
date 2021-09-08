@@ -2,8 +2,7 @@
 
 <!-- An ultra simple Mapnik stylesheet -->
 
-
-<Map srs="+init=epsg:4269">
+<Map>
     <Style name="style">
         <Rule>
             <PolygonSymbolizer />
