@@ -21,7 +21,7 @@
             </LineSymbolizer>
         </Rule>
     </Style>
-    <Layer name="layer" srs="&google_mercator;">
+    <Layer name="layer">
         <StyleName>style</StyleName>
         <Datasource>
             <Parameter name="type">shape</Parameter>
